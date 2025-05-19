@@ -1,25 +1,50 @@
-# HELL4LEATHER
+# *HELL4LEATHER*
 A game created with Bitsy by J. Connor Kushmer for **DIG4715C**
 
-# TODO
+# v2.0 (Release Notes)
+
+## New Features
+- Rooms
+  - Bedroom Closet
+- **IRREGULAR BRICKS** "questline" (augments normal ending)
+- **PEBBLES** (collectible)
+  - Does "nothing"
+
+## Fixes
+- Reductions to shading
+  - Increases visibility
+  - Assists in delineating walkable areas vs. blocked areas
+
+## Improvements
+- Bedroom door requires keychain (new item, found in bedroom closet)
+- Extended some exit/door dialog
+- "Clarified" the ending somewhat
+  - Explained what's happening in greater detail
+
+## Known Bugs
+- None
+
+# Messages from Critics
 
 ## COMPLAINTS
-- [ ] Fix screen size
+- [x] Fix screen size
   - Make full-screen optional (rather than mandatory)
-- [ ] Increase contrast between background & tile colors
-- [ ] Game is too short; make the game longer
-- [ ] Not enough things to interact with [after the first room]
+- [x] Increase contrast between background & tile colors
+  - Achieved by reducing total number of walkable tiles used
+- [x] Game is too short; make the game longer
+- [x] Not enough things to interact with [after the first room]
   - [ ] Tell a joke
-  - [ ] Leave an easter egg
-  - [ ] Keys/progression items
+  - [x] Leave an easter egg
+  - [x] Keys/progression items
 
 ## QUESTIONS UNANSWERED
-- [ ] The ending: What happened?
-  - [ ] Is it even real? A dream?
-  - [ ] The ending was sort of unclear
+- [x] The ending
+  - What happened?
+  - Is it even real? A dream?
+  - The ending was sort of unclear
 
-## NEW SUGGESTIONS
+# SUGGESTIONS
 - [ ] Continue game after finding clock(?)
 - [ ] Add a maze(?)
-- [ ] Alternate ending(?)
-  - Get to school on time—no idea how that would be accomplished, though
+- [x] Alternate ending(?)
+  - Get to school on time (no idea how that would be accomplished, though)
