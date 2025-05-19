@@ -9,6 +9,7 @@ A game created with Bitsy by J. Connor Kushmer for **DIG4715C**
 - **IRREGULAR BRICKS** "questline" (augments normal ending)
 - **PEBBLES** (collectible)
   - Does "nothing"
+- New music _(for **IRREGULAR BRICKS** & **PEBBLES** sequences)_
 
 ## Fixes
 - Reductions to shading
